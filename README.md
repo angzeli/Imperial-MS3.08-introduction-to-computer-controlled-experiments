@@ -22,7 +22,8 @@ The experiment combines basic electronics, serial communication, data acquisitio
 - Red LED  
 - Yellow LED  
 - Green LED  
-- Blue LED  
+- Blue LED
+- White LED 
 - Fixed resistor (ohmic reference)
 
 ---
@@ -34,8 +35,9 @@ The experiment combines basic electronics, serial communication, data acquisitio
 - I–V curve plotting and comparison
 - Linear fitting for resistor validation
 - Two-region fitting for LEDs (pre- and post-turn-on)
-- Qualitative interpretation of band-gap effects
+- Qualitative interpretation of bandgap effects
 - Optional numerical differentiation (dI/dV)
+- LED performances compared at RT and 77 K (cooled by liquid nitrogen).
 
 ---
 
@@ -44,7 +46,7 @@ The experiment combines basic electronics, serial communication, data acquisitio
 - UART / serial communication
 - PWM and RC filtering
 - Ohmic vs non-ohmic behaviour
-- Semiconductor band gap and LED turn-on voltage
+- Semiconductor bandgap and LED turn-on voltage
 - Measurement uncertainty propagation
 - Data reproducibility and reuse
 
