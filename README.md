@@ -1,4 +1,4 @@
-# 📘 MS-3.08 — Introduction to Computer-Controlled Experiments (ICCE)
+# 📘 MS 3.08 — Introduction to Computer-Controlled Experiments (ICCE)
 
 This repository contains the complete experimental and data-analysis workflow for the Introduction to Computer-Controlled Experiments (ICCE) laboratory module.
 
