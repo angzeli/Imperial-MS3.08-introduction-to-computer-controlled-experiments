@@ -1,21 +1,18 @@
-📘 MS-3.08 — Introduction to Computer-Controlled Experiments (ICCE)
+# 📘 MS-3.08 — Introduction to Computer-Controlled Experiments (ICCE)
 
 This repository contains the complete experimental and data-analysis workflow for the Introduction to Computer-Controlled Experiments (ICCE) laboratory module.
 
 The experiment investigates the current–voltage (I–V) characteristics of electronic components, using an Arduino-based data acquisition system controlled via Python scripts. The project integrates basic electronics, serial communication, automated data collection, uncertainty analysis, and scientific visualisation.
 
-⸻
 
-🔬 Experiment Overview
+## 🔬 Experiment Overview
 	•	An Arduino microcontroller generates a variable analogue voltage using PWM filtered by an RC network
 	•	The voltage is applied to LEDs or a fixed resistor in series with a known sensing resistor
 	•	The current is inferred from the measured voltage drop across the sensing resistor
 	•	Voltage and current data are acquired automatically via serial (UART) communication
 	•	I–V characteristics are analysed and compared across components and conditions
 
-⸻
-
-🧪 Components Tested
+## 🧪 Components Tested
 	•	Red LED
 	•	Yellow LED
 	•	Green LED
@@ -23,9 +20,8 @@ The experiment investigates the current–voltage (I–V) characteristics of ele
 	•	White LED
 	•	Fixed resistor (ohmic reference)
 
-⸻
 
-📊 Key Analysis Performed
+## 📊 Key Analysis Performed
 	•	Automated voltage sweeps (0–5 V)
 	•	Repeated measurements to reduce random error
 	•	I–V curve plotting and comparison
@@ -37,9 +33,7 @@ The experiment investigates the current–voltage (I–V) characteristics of ele
 	•	Optional numerical differentiation (dI/dV)
 	•	Comparison of LED performance at room temperature (RT) and 77 K (liquid nitrogen cooling)
 
-⸻
-
-🧠 Concepts Covered
+## 🧠 Concepts Covered
 	•	UART / serial communication
 	•	PWM generation and RC filtering
 	•	Ohmic vs non-ohmic behaviour
@@ -48,15 +42,14 @@ The experiment investigates the current–voltage (I–V) characteristics of ele
 	•	Measurement uncertainty and reproducibility
 	•	Data reuse and automated scientific workflows
 
-⸻
 
-🛠️ Requirements
+## 🛠️ Requirements
 
-Hardware
+### Hardware
 	•	Arduino-based DAQ system (as provided in the ICCE laboratory)
 	•	Standard electronic components (LEDs, resistors)
 
-Software
+### Software
 	•	Python 3.x
 	•	Required Python packages:
 	•	numpy
