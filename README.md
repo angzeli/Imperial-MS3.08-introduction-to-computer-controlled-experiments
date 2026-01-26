@@ -63,6 +63,7 @@ The experiment investigates the current–voltage (I–V) characteristics of ele
 
 This project was conducted as part of the ICCE laboratory course in collaboration with:
 
-- Devan Hu 
+- **Devan Hu** 
 
-Data acquisition was performed jointly; data analysis scripts and visualisation were developed by the repository author.
+Experimental work and initial data handling were performed jointly.  
+Subsequent data analysis, visualisation, and automation scripts were primarily developed by the repository author, with contributions and discussion from the collaborator.
