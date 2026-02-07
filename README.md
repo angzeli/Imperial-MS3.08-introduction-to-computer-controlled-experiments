@@ -67,12 +67,12 @@ The experiment investigates the current–voltage (I–V) characteristics of ele
 	- csv
 
 ---
-
 ## 👥 Authorship
 
-This project was conducted as part of the ICCE laboratory course in collaboration with:
+This project was conducted as part of the ICCE laboratory course by:
 
-- **Devan Hu** 
+- **Angze Li** (Imperial College London)  
+- **Devan Hu** (Imperial College London)  
 
-Experimental work and initial data handling were performed jointly.  
-Subsequent data analysis, visualisation, and automation scripts were primarily developed by the repository author, with contributions and discussion from the collaborator.
+Experimental measurements and initial data handling were performed collaboratively during scheduled laboratory sessions.  
+Subsequent data analysis, visualisation, and automation scripts were primarily developed by **Angze Li**, with contributions and discussion from **Devan Hu**.
